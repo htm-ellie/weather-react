@@ -9,7 +9,7 @@ export default function App() {
         <Weather />
         <footer className="mt-3">
           Coded by Ellie Litt and{" "}
-          <a href="https://github.com/htm-ellie" target="_blank">
+          <a href="https://github.com/htm-ellie/weather-react" target="_blank">
             open-sourced on GitHub
           </a>
         </footer>
