@@ -1,0 +1,25 @@
+.DisplayForecast {
+  text-align: center;
+}
+
+.forecast-day {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.forecast-temperatures {
+  font-size: 13px;
+  line-height: 2;
+}
+
+.forecast-temperature-max {
+  opacity: 1;
+}
+
+.forecast-temperature-min {
+  opacity: 0.6;
+}
+
+.forecast-icon img {
+  width: 50px;
+}
