@@ -28,6 +28,7 @@ export default function DisplayForecast(props) {
                 </div>
               );
             }
+            return null;
           })}
         </div>
       </div>

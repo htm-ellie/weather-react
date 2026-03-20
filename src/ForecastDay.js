@@ -8,7 +8,8 @@ export default function ForecastDay(props) {
 
   function icon() {
     let iconUrl = props.data.condition.icon_url;
-    return <img src={iconUrl} />;
+    return <img src={iconUrl} alt={props.data.condition.description}/>; 
+    
   }
 
   function max() {
